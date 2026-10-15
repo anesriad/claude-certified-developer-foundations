@@ -5,8 +5,8 @@ Code for the Claude Certified Developer – Foundations course. Each lesson has 
 ## Setup
 
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone https://github.com/anesriad/claude-certified-developer-foundations.git
+cd claude-certified-developer-foundations
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
