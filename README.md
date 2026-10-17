@@ -21,5 +21,6 @@ Open a lesson notebook in VS Code and select the `.venv` kernel.
 2. [Setting Up Your Claude Development Environment](lesson_02/)
 3. [Your First Call to Claude: The Messages API](lesson_03/)
 4. [Inside the Messages API: Roles, System Prompts, Parameters](lesson_04/)
+5. [Prompt Engineering Fundamentals](lesson_05/)
 
 More lessons are added as the course progresses.
