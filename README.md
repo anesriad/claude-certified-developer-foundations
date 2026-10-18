@@ -23,5 +23,6 @@ Open a lesson notebook in VS Code and select the `.venv` kernel.
 4. [Inside the Messages API: Roles, System Prompts, Parameters](lesson_04/)
 5. [Prompt Engineering Fundamentals](lesson_05/)
 6. [Context Engineering and Handling Structured Output](lesson_06/)
+7. [Choosing a Model: Trade-offs, Tokens, and Cost](lesson_07/)
 
 More lessons are added as the course progresses.
