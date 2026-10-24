@@ -25,5 +25,6 @@ Open a lesson notebook in VS Code and select the `.venv` kernel.
 6. [Context Engineering and Handling Structured Output](lesson_06/)
 7. [Choosing a Model: Trade-offs, Tokens, and Cost](lesson_07/)
 8. [Software Engineering Foundations for Claude Applications](lesson_08/)
+9. [Designing a Claude Application: Conversation State and Reliability](lesson_09/)
 
 More lessons are added as the course progresses.
