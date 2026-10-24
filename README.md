@@ -27,5 +27,6 @@ Open a lesson notebook in VS Code and select the `.venv` kernel.
 8. [Software Engineering Foundations for Claude Applications](lesson_08/)
 9. [Designing a Claude Application: Conversation State and Reliability](lesson_09/)
 10. [Tool Use Fundamentals: Letting Claude Call Your Code](lesson_10/)
+11. [Building Richer Tools and Customizing Agentic Behavior](lesson_11/)
 
 More lessons are added as the course progresses.
