@@ -30,5 +30,6 @@ Open a lesson notebook in VS Code and select the `.venv` kernel.
 11. [Building Richer Tools and Customizing Agentic Behavior](lesson_11/)
 12. [Introducing MCP: Building a Simple MCP Server](lesson_12/)
 13. [Agents and Workflows: Architecture and Patterns](lesson_13/)
+14. [Constructing an Agent with Claude](lesson_14/)
 
 More lessons are added as the course progresses.
