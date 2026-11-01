@@ -32,5 +32,6 @@ Open a lesson notebook in VS Code and select the `.venv` kernel.
 13. [Agents and Workflows: Architecture and Patterns](lesson_13/)
 14. [Constructing an Agent with Claude](lesson_14/)
 15. [Working with Claude Code](lesson_15/)
+16. [Evaluating, Testing, and Debugging Your Claude Application](lesson_16/)
 
 More lessons are added as the course progresses.
