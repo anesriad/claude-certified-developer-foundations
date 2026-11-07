@@ -33,5 +33,6 @@ Open a lesson notebook in VS Code and select the `.venv` kernel.
 14. [Constructing an Agent with Claude](lesson_14/)
 15. [Working with Claude Code](lesson_15/)
 16. [Evaluating, Testing, and Debugging Your Claude Application](lesson_16/)
+17. [AI Application Security and Guardrails](lesson_17/)
 
 More lessons are added as the course progresses.
